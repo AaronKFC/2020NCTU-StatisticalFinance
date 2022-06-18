@@ -1,0 +1,20 @@
+LR 1f) Ordinal Response Regression
+Damage Scores for Picea Sitchesis Shoots at Varying Temperatures and Ozone Levels
+
+---------------------------------------
+Dataset:  ozonespruce.dat
+
+Source: P.W. Lucas, D.A. Cottam, L.J. Sheppard, B.J. Francis (1988). "Growth
+Responses and Delayed Winter Hardening in Sitka Spruce Following Summer
+Exposure to Ozone," New Phytologist, Vol. 108, pp. 495-504.
+
+Description: Damage scores (ordinal 0-4) for Picea Sitchesis shoots
+at 2 Dates (10November and 8December), at 4 temperatures (different at
+each date) and 4 ozone Levels
+
+Variables/Columns
+Date    8
+Temp 13-16     /* Celsius  */
+03 Concentration    20-24   /* nl/l  */ 
+Damage Score   32
+Count       38-40
